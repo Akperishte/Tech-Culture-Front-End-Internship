@@ -1,1 +1,9 @@
+<html>
+<body>
+<script>
 
+let name = prompt("Akperihste");
+alert(name);
+</script>
+</body>
+</html>
